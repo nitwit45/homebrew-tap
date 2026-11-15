@@ -1,6 +1,6 @@
 cask "jetsam" do
-  version "0.1.0"
-  sha256 "ea0c254a3b4abe46d00fd9ccb1ac1bd278dc77fcb7ae51c75e8aed23716c661e"
+  version "0.1.1"
+  sha256 "ec6c9b97ae080cc5ea8eabdd0e4953a567f8e8a6fffab1c24b9e302b10eedca1"
 
   url "https://github.com/nitwit45/jetsam/releases/download/v#{version}/Jetsam.dmg"
   name "Jetsam"
